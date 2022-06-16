@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/re1a.wav-440736f2fe54b875136b4ef778f1ebae.sample"
+
+[deps]
+
+source_file="res://audio/re1a.wav"
+dest_files=[ "res://.import/re1a.wav-440736f2fe54b875136b4ef778f1ebae.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
